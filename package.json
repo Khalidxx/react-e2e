@@ -1,0 +1,11 @@
+{
+  "name": "react-e2e",
+  "version": "1.0.0",
+  "description": "An E2E testing repo for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "khalidxx",
+  "license": "MIT"
+}
